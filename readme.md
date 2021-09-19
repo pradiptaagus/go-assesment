@@ -14,17 +14,16 @@ Multiple choice based assesment with [golang](https://golang.org/)
 5. Go to `http://127.0.0.1:8080`.
 
 ## Project Directory Structure
-.go-assesment
-|-- controller
-|-- helper
-|-- message
-|-- migration
-|-- model
-|-- route
-|-- go.mod
-|-- go.sum
-|-- main.go
-|-- readme.md
+* [controller](./controller)
+* [helper](./helper)
+* [message](./message)
+* [migration](./migration)
+* [model](./model)
+* [route](./route)
+* [go.mod](./go.mod)
+* [go.sum](./go.sum)
+* [main.go](./main.go)
+* [readme.md](./readme.md)
 
 ### controller
 The directory where all handler live.
